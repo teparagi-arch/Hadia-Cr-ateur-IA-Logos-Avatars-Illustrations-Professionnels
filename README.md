@@ -17,5 +17,5 @@ Ce projet présente mes créations visuelles générées par intelligence artifi
 - /prompts → prompts utilisés
 
 ## 📞 Contact
-Fiverr : (ton lien ici)
-Email : (ton email professionnel ici)
+Fiverr : ( https://www.fiverr.com/s/VYqz7be )
+email : ( teparagi@gmail.com )
